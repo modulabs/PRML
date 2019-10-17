@@ -1,2 +1,10 @@
-# PRML
-PRML로 이해하는 베이지안
+# 1. Probability Distributions
+## Bernoulli Distributions
+## Binomial Distributions
+## Beta Distributions
+
+## Categorical Distributions
+## Multinomial Distributions
+## Dirichlet Distributions
+
+## Normal Distributions
